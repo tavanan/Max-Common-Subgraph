@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace max_graph
+namespace MaxCommonSubgraph
 {
     public class Graph
     {

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace max_graph
+namespace MaxCommonSubgraph
 {
     public class McSplit {
 

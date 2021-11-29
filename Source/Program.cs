@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 
 
-namespace max_graph
+namespace MaxCommonSubgraph
 {
     class Program
     {
